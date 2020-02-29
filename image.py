@@ -1,8 +1,6 @@
 from PIL import Image, ImageDraw, ImageFont
 import feed
 import textwrap
-import urllib.request as urllib
-import io
 
 
 def makeImages(handle, path, max_count):
