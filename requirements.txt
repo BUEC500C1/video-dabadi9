@@ -4,4 +4,4 @@ configparser
 Image
 Pillow
 google-cloud 
-google-cloud-visio
+google-cloud-vision
